@@ -1,3 +1,6 @@
+# NAME AND SRN
+NAME:SABURESH MALAVI
+SRN:PES1UG22CS835
 # Multithreaded TCP Server 
 
 HP Assignement: PThreads

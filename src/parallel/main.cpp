@@ -3,7 +3,7 @@
  * tcpserver.c - A multithreaded TCP echo server 
  * usage: tcpserver <port>
  * 
- * Testing : ii
+ * Testing : 
  * nc localhost <port> < input.txt
  */
 #define TCP_HEADER
